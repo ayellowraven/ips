@@ -1,0 +1,7 @@
+baseURL = "https://interstitialplaysystem.ayellowraven.com/"
+languageCode = "en-us"
+title = "Interstitial Play System"
+
+[module]
+[[module.imports]]
+path = 'hugo-book'
