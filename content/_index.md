@@ -4,7 +4,7 @@ type: docs
 ---
 
 # Interstitial play system
-The interstitial play system is built to help GMs run downtime and travel in DnD games by that prioritizes player agency and meaningful choices in games that are focused on role playing, character growth, and collective world building. The system works especially well for character-driven stories
+The interstitial play system is built to help GMs run downtime and travel in DnD games that prioritizes player agency and meaningful choices in games that are focused on role playing, character growth, and collective world building. The system works especially well for character-driven stories
 The core system has three interrelated mechanics:
 1. Activities during downtime and travel.
 2. Inspiration and adversity tokens.
